@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GEOFOOD</string>
+    <string name="option_get_place">Restaurant du mois</string>
+    <string name="button_text">rechercher</string>
+    <string name="edit_text">Nom du restaurant</string>
+
+</resources>
